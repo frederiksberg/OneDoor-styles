@@ -40,6 +40,12 @@
                 </AnchorPoint>
               </PointPlacement>
             </LabelPlacement>
+            <Halo>
+              <Radius>1</Radius>
+                <Fill>
+                  <CssParameter name="fill">#ffffff</CssParameter>
+                </Fill>
+            </Halo> 
             <Fill>
               <CssParameter name="fill">#000000</CssParameter>
             </Fill>
@@ -82,12 +88,12 @@
             <Fill>
               <CssParameter name="fill">#000000</CssParameter>
             </Fill>
-            <halo>
-              <radius>1</radius>
+            <Halo>
+              <Radius>1</Radius>
                 <Fill>
                   <CssParameter name="fill">#ffffff</CssParameter>
                 </Fill>
-            </halo>            
+            </Halo>            
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
