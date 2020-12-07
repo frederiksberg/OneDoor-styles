@@ -41,7 +41,7 @@
               </PointPlacement>
             </LabelPlacement>
             <Halo>
-              <Radius>1</Radius>
+              <Radius>.5</Radius>
                 <Fill>
                   <CssParameter name="fill">#ffffff</CssParameter>
                 </Fill>
