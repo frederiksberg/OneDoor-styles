@@ -83,7 +83,7 @@
               <CssParameter name="fill">#000000</CssParameter>
             </Fill>
             <sld:halo>
-              <sld:radius>.5</sld:radius>
+              <sld:radius>1</sld:radius>
                 <sld:Fill>
                   <sld:CssParameter name="fill">#ffffff</sld:CssParameter>
                 </sld:Fill>
