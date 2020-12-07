@@ -12,9 +12,9 @@
          <sld:FeatureTypeStyle>
             <sld:Name>name</sld:Name>
             <sld:Rule>
-               <sld:Name>Cirkel</sld:Name>
-               <sld:Title>Husnr - cirkel</sld:Title>
-               <sld:Abstract>Viser husnummer med cirkel placeret med retningsvinkel</sld:Abstract>
+               <sld:Name>halo</sld:Name>
+               <sld:Title>Husnr - halo</sld:Title>
+               <sld:Abstract>Viser husnummer med halo placeret med retningsvinkel</sld:Abstract>
                <sld:TextSymbolizer>
                   <sld:Label>
                      <ogc:PropertyName>husnr</ogc:PropertyName>
