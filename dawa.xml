@@ -15,18 +15,6 @@
                <sld:Name>Cirkel</sld:Name>
                <sld:Title>Husnr - cirkel</sld:Title>
                <sld:Abstract>Viser husnummer med cirkel placeret med retningsvinkel</sld:Abstract>
-               <sld:PointSymbolizer>
-                  <sld:Graphic>
-                     <sld:Mark>
-                        <WellKnownName>circle</WellKnownName>
-                        <sld:Fill>
-                           <sld:CssParameter name="fill">#CBE6EE</sld:CssParameter>
-                        </sld:Fill>
-                        <sld:Stroke />
-                     </sld:Mark>
-                     <sld:Size>28</sld:Size>
-                  </sld:Graphic>
-               </sld:PointSymbolizer>
                <sld:TextSymbolizer>
                   <sld:Label>
                      <ogc:PropertyName>husnr</ogc:PropertyName>
