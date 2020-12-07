@@ -57,6 +57,12 @@
                   </sld:Fill>
                   <sld:VendorOption name="conflictResolution">false</sld:VendorOption>
                   <sld:VendorOption name="spaceAround">-1</sld:VendorOption>
+                  <sld:halo>
+                     <sld:radius>1</sld:radius>
+                     <sld:Fill>
+                        <sld:CssParameter name="fill">#ffffff</sld:CssParameter>
+                     </sld:Fill>
+                  </sld:halo>
                </sld:TextSymbolizer>
             </sld:Rule>
          </sld:FeatureTypeStyle>
