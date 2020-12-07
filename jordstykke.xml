@@ -82,12 +82,12 @@
             <Fill>
               <CssParameter name="fill">#000000</CssParameter>
             </Fill>
-            <sld:halo>
-              <sld:radius>1</sld:radius>
-                <sld:Fill>
-                  <sld:CssParameter name="fill">#ffffff</sld:CssParameter>
-                </sld:Fill>
-            </sld:halo>            
+            <halo>
+              <radius>1</radius>
+                <Fill>
+                  <CssParameter name="fill">#ffffff</CssParameter>
+                </Fill>
+            </halo>            
           </TextSymbolizer>
         </Rule>
       </FeatureTypeStyle>
