@@ -24,7 +24,7 @@
                         </sld:Fill>
                         <sld:Stroke />
                      </sld:Mark>
-                     <sld:Size>22</sld:Size>
+                     <sld:Size>28</sld:Size>
                   </sld:Graphic>
                </sld:PointSymbolizer>
                <sld:TextSymbolizer>
