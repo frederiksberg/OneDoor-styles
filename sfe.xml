@@ -14,13 +14,13 @@
           <MaxScaleDenominator>26289.000000</MaxScaleDenominator>
           <PolygonSymbolizer>
             <Stroke>
-              <CssParameter name="stroke">#f0000ff</CssParameter>
+              <CssParameter name="stroke">#0000ff</CssParameter>
               <CssParameter name="stroke-width">1.00</CssParameter>
             </Stroke>
           </PolygonSymbolizer>
           <PolygonSymbolizer>
             <Fill>
-              <CssParameter name="fill">#f00000f</CssParameter>
+              <CssParameter name="fill">#00000ff</CssParameter>
               <CssParameter name="fill-opacity">0.00</CssParameter>
             </Fill>
           </PolygonSymbolizer>
@@ -64,7 +64,7 @@
           <MaxScaleDenominator>26288.000000</MaxScaleDenominator>
           <LineSymbolizer>
             <Stroke>
-              <CssParameter name="stroke">#f0000ff</CssParameter>
+              <CssParameter name="stroke">#0000ff</CssParameter>
               <CssParameter name="stroke-width">1.00</CssParameter>
               <CssParameter name="stroke-dasharray">5.00 2.00 </CssParameter>
             </Stroke>
